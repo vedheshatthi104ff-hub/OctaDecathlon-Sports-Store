@@ -16,6 +16,7 @@ A Python and MySQL based Sports Store Management System.
 
 - Python
 - MySQL
+- SQL
 - Tabulate
 
 ## Database Tables
